@@ -7,8 +7,8 @@ project:
     - "!etc/"
   
 website:
-  title: "Seth Watts"
-  description: "Personal website of Seth Watts"
+  title: "Olivia Shaw"
+  description: "Personal website of Olivia Shaw"
   navbar:
     left:
       - href: index.qmd
@@ -18,11 +18,11 @@ website:
       #- text: "Research"
       - href: research.qmd
         text: Research
-      - href: cv1/watts-cv.pdf
+      - href: cv1/CV updated copy 10-16-23.pdf
         text: CV
 format: 
   html:
-    theme: cosmo
+    theme: Lux
     toc: true
   
   
